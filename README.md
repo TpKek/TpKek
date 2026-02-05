@@ -53,8 +53,17 @@ class ComputerScientist {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
+### 🧰 Frameworks & Tools
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
 ## 🚀 What Sets Me Apart
 ```
 ┌─────────────────────────────────────────────┐
@@ -79,14 +88,35 @@ My **BSc in Computing** gave me the "why" behind the code:
 
 **Phase:** Transitioning from academic CS → Production Web Development
 ```mermaid
-graph LR
-    A[C++ & Python] --> B[JavaScript Ecosystem]
-    B --> C[React Fundamentals]
-    C --> D[Node.js & Express]
-    D --> E[MERN Stack]
-    D --> F[PERN Stack]
-    E --> G[Full Stack Projects]
-    F --> G
+graph TB
+    A[🎓 BSc Computing<br/>UNISA] --> B[📚 Core CS Foundation]
+    B --> C[C++ & Python<br/>Systems Programming]
+    B --> D[Data Structures<br/>& Algorithms]
+    B --> E[Database Theory<br/>& Design]
+    
+    C --> F[🌐 JavaScript<br/>Ecosystem]
+    D --> F
+    E --> F
+    
+    F --> G[⚛️ React.js<br/>Frontend]
+    F --> H[🟢 Node.js & Express<br/>Backend]
+    
+    G --> I[🍃 MERN Stack<br/>MongoDB + React]
+    H --> I
+    
+    G --> J[🐘 PERN Stack<br/>PostgreSQL + React]
+    H --> J
+    
+    I --> K[🚀 Full Stack<br/>Production Apps]
+    J --> K
+    
+    K --> L[☁️ Deploy & Scale]
+    
+    style A fill:#4A5568,stroke:#2D3748,color:#fff
+    style B fill:#2C5282,stroke:#2A4365,color:#fff
+    style F fill:#D69E2E,stroke:#B7791F,color:#fff
+    style K fill:#38A169,stroke:#2F855A,color:#fff
+    style L fill:#805AD5,stroke:#6B46C1,color:#fff
 ```
 
 **Next Up:**
@@ -101,9 +131,11 @@ graph LR
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TpKek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=TpKek&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TpKek&layout=compact&theme=tokyonight&hide_border=true)
+[![Bertin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TpKek&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/TpKek)
+
+![Profile Views](https://komarev.com/ghpvc/?username=TpKek&color=blueviolet&style=for-the-badge)
 
 </div>
 
@@ -119,8 +151,6 @@ I bridge the gap between **low-level systems knowledge** and **high-level web de
 
 <div align="center">
 
-**💻 "Building the future, one commit at a time"**
-
-![Profile Views](https://komarev.com/ghpvc/?username=TpKek&color=blueviolet&style=flat-square)
+**💻 "Building the future, one line at a time"**
 
 </div>
