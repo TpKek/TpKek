@@ -1,61 +1,135 @@
-# Hi, I'm Bertin Dreyer 👋
+<div align="center">
 
-### BSc Computing Graduate (UNISA) | Full Stack Engineer
-**Bridging low-level systems logic with modern web architecture.**
+# 👨‍💻 Bertin Dreyer
 
-I am a software developer with a strong analytical background. While my foundation is built on **C++** and **Python** from my university studies, I have transitioned into the **JavaScript ecosystem**, mastering the art of building scalable, data-driven applications using both **SQL (PostgreSQL)** and **NoSQL (MongoDB)**.
+### Building the Web with a Systems Mindset
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bertindreyer)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Bertin.Dreyer1@Gmail.com)
 
-## 🚀 The Full Stack Spectrum
-
-### 🟢 MERN Stack (High Velocity & Scale)
-*Focused on flexible schemas and real-time performance.*
-- **MongoDB** (Mongoose ODM)
-- **Express.js** & **Node.js**
-- **React.js**
-
-### 🔵 PERN Stack (Relational & Robust)
-*Focused on data integrity and complex relationships.*
-- **PostgreSQL** (SQL / Prisma)
-- **Express.js** & **Node.js**
-- **React.js**
+</div>
 
 ---
 
-## 🛠️ My Technical Arsenal
+## 🎯 About Me
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Node](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
-| **Foundations** | ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+I'm a **Full Stack Developer** who thinks like a computer scientist. While most developers learn frameworks first, I learned to understand what happens *beneath* them—memory management, algorithms, operating systems, and data structures. Now I'm channeling that foundation into building fast, scalable web applications.
+
+**Current Mission:** Mastering the **MERN** and **PERN** stacks to build production-grade apps that don't just work—they *perform*.
 
 ---
 
-## 🎓 Academic Foundation (BSc Computing - UNISA)
-*My degree provided the theoretical "engine" behind my modern web development practice.*
+## 🛠️ Tech Stack
 
-| Knowledge Area | Core Competencies |
-| :--- | :--- |
-| **Computational Logic** | Advanced problem-solving, algorithmic complexity ($O(n)$), and formal systems design. |
-| **Systems Architecture** | Deep understanding of Operating Systems, memory management, and hardware-software interfacing. |
-| **Data Engineering** | Relational database design (SQL), data normalization, and structured information systems. |
-| **Software Engineering** | Object-Oriented Programming (OOP) principles, design patterns, and SDLC methodologies. |
+### 🌐 Web Development
+```javascript
+const currentlyLearning = {
+  frontend: ["React", "HTML5", "CSS3", "Tailwind CSS"],
+  backend: ["Node.js", "Express.js"],
+  databases: {
+    sql: "PostgreSQL",
+    nosql: "MongoDB"
+  },
+  stacks: ["MERN", "PERN"]
+}
+```
 
-> **The Competitive Edge:** My academic background allows me to go beyond "making it work." I focus on writing code that is **memory-efficient**, **scalable**, and **architecturally sound**.
+### 🎓 Academic Foundation
+```cpp
+// BSc Computing equipped me with:
+class ComputerScientist {
+  private:
+    - Data Structures & Algorithms
+    - Operating Systems Architecture
+    - Database Theory & Design
+    - Software Engineering Principles
+    - Object-Oriented Programming
+    - Computational Complexity Analysis
+};
+```
+
+### 💪 Core Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-## 📊 Performance Metrics
-![Bertin's Stats](https://github-readme-stats.vercel.app/api?username=TpKek&show_icons=true&theme=radical&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TpKek&layout=compact&theme=radical)
+## 🚀 What Sets Me Apart
+```
+┌─────────────────────────────────────────────┐
+│  Most Developers    →    Me                 │
+├─────────────────────────────────────────────┤
+│  "Make it work"     →    "Make it optimal"  │
+│  Framework-first    →    Fundamentals-first │
+│  Copy-paste         →    Understand deeply  │
+│  Surface level      →    Systems thinking   │
+└─────────────────────────────────────────────┘
+```
+
+My **BSc in Computing** gave me the "why" behind the code:
+- ✅ I know *why* MongoDB is schema-less and when that matters
+- ✅ I understand database indexing beyond "it makes things faster"
+- ✅ I can analyze time complexity and make informed optimization decisions
+- ✅ I debug from first principles, not just Stack Overflow
 
 ---
 
-## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:your-email@example.com)
+## 🌱 Current Learning Journey
+
+**Phase:** Transitioning from academic CS → Production Web Development
+```mermaid
+graph LR
+    A[C++ & Python] --> B[JavaScript Ecosystem]
+    B --> C[React Fundamentals]
+    C --> D[Node.js & Express]
+    D --> E[MERN Stack]
+    D --> F[PERN Stack]
+    E --> G[Full Stack Projects]
+    F --> G
+```
+
+**Next Up:**
+- 🔨 Building real-world CRUD applications
+- 🎨 Mastering React state management and hooks
+- 🔐 Implementing authentication & authorization
+- ☁️ Deploying to production environments
 
 ---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TpKek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TpKek&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 💡 My Philosophy
+
+> **"The best developers don't just know *how* to code—they understand *why* their code works."**
+
+I bridge the gap between **low-level systems knowledge** and **high-level web development**, writing code that's not just functional, but efficient, maintainable, and scalable.
+
+---
+
+## 📫 Let's Connect
+
+I'm always interested in connecting with fellow developers, especially those who value **fundamentals** as much as frameworks.
+
+- 💼 [LinkedIn](https://linkedin.com/in/bertindreyer)
+- 📧 [Bertin.Dreyer1@Gmail.com](mailto:Bertin.Dreyer1@Gmail.com)
+
+---
+
+<div align="center">
+
+**💻 "Building the future, one commit at a time"**
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square)
+
+</div>
