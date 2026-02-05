@@ -117,19 +117,10 @@ I bridge the gap between **low-level systems knowledge** and **high-level web de
 
 ---
 
-## 📫 Let's Connect
-
-I'm always interested in connecting with fellow developers, especially those who value **fundamentals** as much as frameworks.
-
-- 💼 [LinkedIn](https://linkedin.com/in/bertindreyer)
-- 📧 [Bertin.Dreyer1@Gmail.com](mailto:Bertin.Dreyer1@Gmail.com)
-
----
-
 <div align="center">
 
 **💻 "Building the future, one commit at a time"**
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=TpKek&color=blueviolet&style=flat-square)
 
 </div>
