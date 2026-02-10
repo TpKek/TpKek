@@ -1,30 +1,116 @@
 <div align="center">
 
-# 👨‍💻 Bertin Dreyer
+# Bertin Dreyer
 
-### Building the Web with a Systems Mindset
+### Full Stack Developer In-Training
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bertindreyer)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Bertin.Dreyer1@Gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TpKek)
 
 </div>
 
 ---
 
-## 🎯 About Me
+## About Me
 
-I'm a **Full Stack Developer** who thinks like a computer scientist. While most developers learn frameworks first, I learned to understand what happens *beneath* them—memory management, algorithms, operating systems, and data structures. Now I'm channeling that foundation into building fast, scalable web applications.
+I'm a **Full Stack Developer In-Training** with a BSc in Computing from UNISA, currently transitioning from academic computer science to practical web development. I have a strong foundation in data structures, algorithms, and systems programming, and I'm now applying that knowledge to build web applications.
 
-**Current Mission:** Mastering the **MERN** and **PERN** stacks to build production-grade apps that don't just work—they *perform*.
+**Current Focus:** Completing Angela Yu's Full Stack Web Development Bootcamp and building production-ready applications.
 
 ---
 
-## 🛠️ Tech Stack
+## Featured Projects
 
-### 🌐 Web Development
+<div align="center">
+
+### Band Name Generator
+[![Repo](https://img.shields.io/badge/Repo-View-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TpKek/Band-Name-Generator)
+
+A web application that generates creative band names using random word selection. Built with Node.js, Express, and EJS templating.
+
+**Tech Stack:** Node.js, Express, EJS, JavaScript
+
+---
+
+### QR Code Generator
+[![Repo](https://img.shields.io/badge/Repo-View-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TpKek/QR-Code-Generator)
+
+A QR Code Generator built using NPM packages.
+
+**Tech Stack:** JavaScript, NPM
+
+---
+
+### Simon Game
+[![Repo](https://img.shields.io/badge/Repo-View-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TpKek/Simon-Game)
+
+A classic memory game built with JavaScript and DOM manipulation.
+
+**Tech Stack:** JavaScript, HTML, CSS
+
+---
+
+### Drum Kit
+[![Repo](https://img.shields.io/badge/Repo-View-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TpKek/Drum-Kit)
+
+An interactive drum kit website featuring JavaScript and DOM manipulation.
+
+**Tech Stack:** JavaScript, HTML, CSS
+
+---
+
+### Personal Website
+[![Repo](https://img.shields.io/badge/Repo-View-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TpKek/Personal-Website)
+
+My personal portfolio website.
+
+**Tech Stack:** HTML, CSS
+
+</div>
+
+---
+
+## Past Projects
+
+<div align="center">
+
+### Reddit Bot with Sentiment Analysis
+[![Repo](https://img.shields.io/badge/Repo-View-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TpKek/Reddit-Bot-Project-2-NLPML-Boogaloo)
+
+A Reddit bot that uses sentiment analysis to analyze post content and comments.
+
+**Tech Stack:** Python, NLP, Reddit API
+
+---
+
+### GUI for Reddit Bot
+[![Repo](https://img.shields.io/badge/Repo-View-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TpKek/GUI-for-Reddit-Bot)
+
+Desktop GUI application for the Reddit sentiment analysis bot using Qtpy.
+
+**Tech Stack:** Python, Qtpy, GUI Development
+
+</div>
+
+---
+
+## What I'm Working On
+
+- Completing Angela Yu's Full Stack Web Development Bootcamp
+- Building full-stack applications with MERN and PERN stacks
+- Learning React state management and hooks
+- Learning authentication & authorization patterns
+- Exploring deployment strategies
+
+---
+
+## Tech Stack
+
+### Web Development
 ```javascript
 const currentlyLearning = {
-  frontend: ["React", "HTML5", "CSS3", "Tailwind CSS"],
+  frontend: ["React", "HTML5", "CSS3", "Tailwind CSS", "EJS"],
   backend: ["Node.js", "Express.js"],
   databases: {
     sql: "PostgreSQL",
@@ -34,104 +120,109 @@ const currentlyLearning = {
 }
 ```
 
-### 🎓 Academic Foundation
+### Academic Foundation
 ```cpp
-// BSc Computing equipped me with:
+// BSc Computing (UNISA) equipped me with:
 class ComputerScientist {
   private:
-    - Data Structures & Algorithms
-    - Operating Systems Architecture
-    - Database Theory & Design
-    - Software Engineering Principles
-    - Object-Oriented Programming
-    - Computational Complexity Analysis
+    // Data Structures & Algorithms
+    // Database Design & Normalization
+    // Object-Oriented Programming
+    // Computer Systems & Architecture
+    // Software Engineering Principles
 };
 ```
 
-### 💪 Core Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Core Languages
+<div align="center">
 
-### 🧰 Frameworks & Tools
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+</div>
 
----
-## 🚀 What Sets Me Apart
-```
-┌─────────────────────────────────────────────┐
-│  Most Developers    →    Me                 │
-├─────────────────────────────────────────────┤
-│  "Make it work"     →    "Make it optimal"  │
-│  Framework-first    →    Fundamentals-first │
-│  Copy-paste         →    Understand deeply  │
-│  Surface level      →    Systems thinking   │
-└─────────────────────────────────────────────┘
-```
+### Frameworks & Tools
+<div align="center">
 
-My **BSc in Computing** gave me the "why" behind the code:
-- ✅ I know *why* MongoDB is schema-less and when that matters
-- ✅ I understand database indexing beyond "it makes things faster"
-- ✅ I can analyze time complexity and make informed optimization decisions
-- ✅ I debug from first principles, not just Stack Overflow
+![React](https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-Intermediate-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-Intermediate-000000?style=for-the-badge&logo=express&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-Intermediate-A91E50?style=for-the-badge&logo=ejs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-Learning-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+</div>
 
-## 🌱 Current Learning Journey
+### Databases
+<div align="center">
 
-**Phase:** Transitioning from academic CS → Production Web Development
-```mermaid
-graph TB
-    A[🎓 BSc Computing<br/>UNISA] --> B[📚 Core CS Foundation]
-    B --> C[C++ & Python<br/>Systems Programming]
-    B --> D[Data Structures<br/>& Algorithms]
-    B --> E[Database Theory<br/>& Design]
-    
-    C --> F[🌐 JavaScript<br/>Ecosystem]
-    D --> F
-    E --> F
-    
-    F --> G[⚛️ React.js<br/>Frontend]
-    F --> H[🟢 Node.js & Express<br/>Backend]
-    
-    G --> I[🍃 MERN Stack<br/>MongoDB + React]
-    H --> I
-    
-    G --> J[🐘 PERN Stack<br/>PostgreSQL + React]
-    H --> J
-    
-    I --> K[🚀 Full Stack<br/>Production Apps]
-    J --> K
-    
-    K --> L[☁️ Deploy & Scale]
-    
-    style A fill:#4A5568,stroke:#2D3748,color:#fff
-    style B fill:#2C5282,stroke:#2A4365,color:#fff
-    style F fill:#D69E2E,stroke:#B7791F,color:#fff
-    style K fill:#38A169,stroke:#2F855A,color:#fff
-    style L fill:#805AD5,stroke:#6B46C1,color:#fff
-```
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Intermediate-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Learning-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Next Up:**
-- 🔨 Building real-world CRUD applications
-- 🎨 Mastering React state management and hooks
-- 🔐 Implementing authentication & authorization
-- ☁️ Deploying to production environments
+</div>
+
+### Skills Proficiency
+<div align="center">
+
+#### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-Intermediate-E34F26?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-Intermediate-1572B6?style=flat-square&logo=css3)
+![EJS](https://img.shields.io/badge/EJS-Intermediate-A91E50?style=flat-square&logo=ejs)
+![React](https://img.shields.io/badge/React-Learning-61DAFB?style=flat-square&logo=react)
+![Tailwind](https://img.shields.io/badge/Tailwind-Learning-38B2AC?style=flat-square&logo=tailwind-css)
+
+#### Backend
+![Node.js](https://img.shields.io/badge/Node.js-Intermediate-339933?style=flat-square&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-Intermediate-000000?style=flat-square&logo=express)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Intermediate-316192?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-Learning-47A248?style=flat-square&logo=mongodb)
+
+#### Core
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=flat-square&logo=javascript)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## My Background
+
+### Academic Foundation
+My **BSc in Computing** from UNISA gave me a strong foundation in:
+- Data Structures & Algorithms (COS2611)
+- Database Design & Normalization (INF2603, INF3703)
+- Object-Oriented Programming & Design Patterns (COS2614)
+- Computer Systems & Architecture (COS2621, COS3721)
+- Software Engineering Principles (INF3705)
+
+During my degree, I gained experience with C++ and Python programming, including GUI development with Qt/QtPy. I'm now applying this academic knowledge to practical web development.
+
+### Learning Journey
+I'm currently completing Angela Yu's Full Stack Web Development Bootcamp, progressing through:
+- Phase 1: Frontend (HTML, CSS, JavaScript, DOM manipulation)
+- Phase 2: Backend (Node.js, Express, EJS, REST APIs)
+- Phase 3: Databases & Security (PostgreSQL, Authentication)
+- Phase 4: Advanced (React.js, Deployment)
+
+---
+
+## What I'm Building Next
+
+- Real-world CRUD applications
+- Projects with authentication & authorization
+- Deployed applications on cloud platforms
+- Applications demonstrating database optimization
+- Projects showcasing API integration
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=TpKek&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TpKek&theme=tokyonight&hide_border=true&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TpKek&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
 
 [![Bertin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TpKek&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/TpKek)
 
@@ -141,16 +232,29 @@ graph TB
 
 ---
 
-## 💡 My Philosophy
+## Achievements & Certifications
 
-> **"The best developers don't just know *how* to code—they understand *why* their code works."**
+- **BSc Computing** - University of South Africa (UNISA)
+- **Full Stack Web Development Bootcamp** - Angela Yu (In Progress)
 
-I bridge the gap between **low-level systems knowledge** and **high-level web development**, writing code that's not just functional, but efficient, maintainable, and scalable.
+---
+
+## Let's Connect
+
+I'm always open to discussing new opportunities, collaborations, or learning from experienced developers!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bertindreyer)
+[![Email](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Bertin.Dreyer1@Gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TpKek)
+
+</div>
 
 ---
 
 <div align="center">
 
-**💻 "Building the future, one line at a time"**
+**Building my skills, one project at a time**
 
 </div>
