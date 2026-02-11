@@ -24,6 +24,15 @@ I'm a **Full Stack Developer In-Training** with a BSc in Computing from UNISA, c
 
 <div align="center">
 
+### Secrets Access Project
+[![Repo](https://img.shields.io/badge/Repo-View-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TpKek/Secrets-Access-Project)
+
+A server-side web application demonstrating security workflows using custom middleware for authentication and access control.
+
+**Tech Stack:** Node.js, Express, Middleware, Authentication
+
+---
+
 ### Band Name Generator
 [![Repo](https://img.shields.io/badge/Repo-View-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TpKek/Band-Name-Generator)
 
@@ -36,9 +45,9 @@ A web application that generates creative band names using random word selection
 ### QR Code Generator
 [![Repo](https://img.shields.io/badge/Repo-View-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TpKek/QR-Code-Generator)
 
-A QR Code Generator built using NPM packages.
+A CLI tool that generates QR codes from URLs using NPM packages.
 
-**Tech Stack:** JavaScript, NPM
+**Tech Stack:** Node.js, NPM, CLI
 
 ---
 
@@ -47,14 +56,32 @@ A QR Code Generator built using NPM packages.
 
 A classic memory game built with JavaScript and DOM manipulation.
 
-**Tech Stack:** JavaScript, HTML, CSS
+**Tech Stack:** JavaScript, HTML, CSS, jQuery
 
 ---
 
 ### Drum Kit
 [![Repo](https://img.shields.io/badge/Repo-View-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TpKek/Drum-Kit)
 
-An interactive drum kit website featuring JavaScript and DOM manipulation.
+An interactive drum kit website featuring JavaScript and DOM manipulation with audio-visual feedback.
+
+**Tech Stack:** JavaScript, HTML, CSS
+
+---
+
+### TinDog
+[![Repo](https://img.shields.io/badge/Repo-View-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TpKek/TinDog)
+
+A responsive landing page mimicking a dog-themed dating app.
+
+**Tech Stack:** HTML, CSS
+
+---
+
+### Dice Game
+[![Repo](https://img.shields.io/badge/Repo-View-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TpKek/Dice-Game)
+
+A dice game using DOM manipulation and JavaScript.
 
 **Tech Stack:** JavaScript, HTML, CSS
 
@@ -66,6 +93,24 @@ An interactive drum kit website featuring JavaScript and DOM manipulation.
 My personal portfolio website.
 
 **Tech Stack:** HTML, CSS
+
+</div>
+
+---
+
+## CSS Mastery Projects
+
+<div align="center">
+
+I've completed several CSS-focused projects to master layout techniques, responsive design, and visual styling:
+
+- **Move-It Website** - Responsive landing page with modern design
+- **Mondrian Project** - CSS Grid and Flexbox layout exploration
+- **Pricing Table** - Complex table styling and responsive design
+- **Meme Motivational Poster** - CSS positioning and creative styling
+- **Flag Project** - CSS positioning techniques
+
+**Tech Stack:** HTML5, CSS3, Flexbox, Grid
 
 </div>
 
@@ -110,7 +155,7 @@ Desktop GUI application for the Reddit sentiment analysis bot using Qtpy.
 ### Web Development
 ```javascript
 const currentlyLearning = {
-  frontend: ["React", "HTML5", "CSS3", "Tailwind CSS", "EJS"],
+  frontend: ["React", "HTML5", "CSS3", "Tailwind CSS", "EJS", "jQuery"],
   backend: ["Node.js", "Express.js"],
   databases: {
     sql: "PostgreSQL",
@@ -144,18 +189,19 @@ class ComputerScientist {
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-Intermediate-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-Intermediate-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Learning-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-Learning-000000?style=for-the-badge&logo=express&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-Intermediate-A91E50?style=for-the-badge&logo=ejs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-Learning-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-Intermediate-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Intermediate-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ### Databases
 <div align="center">
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Intermediate-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Learning-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Learning-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
@@ -167,17 +213,19 @@ class ComputerScientist {
 ![HTML5](https://img.shields.io/badge/HTML5-Intermediate-E34F26?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-Intermediate-1572B6?style=flat-square&logo=css3)
 ![EJS](https://img.shields.io/badge/EJS-Intermediate-A91E50?style=flat-square&logo=ejs)
+![jQuery](https://img.shields.io/badge/jQuery-Intermediate-0769AD?style=flat-square&logo=jquery)
 ![React](https://img.shields.io/badge/React-Learning-61DAFB?style=flat-square&logo=react)
 ![Tailwind](https://img.shields.io/badge/Tailwind-Learning-38B2AC?style=flat-square&logo=tailwind-css)
 
 #### Backend
-![Node.js](https://img.shields.io/badge/Node.js-Intermediate-339933?style=flat-square&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express-Intermediate-000000?style=flat-square&logo=express)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Intermediate-316192?style=flat-square&logo=postgresql)
+![Node.js](https://img.shields.io/badge/Node.js-Learning-339933?style=flat-square&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-Learning-000000?style=flat-square&logo=express)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Learning-316192?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Learning-47A248?style=flat-square&logo=mongodb)
 
 #### Core
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=flat-square&logo=javascript)
+![Git](https://img.shields.io/badge/Git-Intermediate-F05032?style=flat-square&logo=git)
 
 </div>
 
